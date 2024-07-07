@@ -1,0 +1,34 @@
+.box{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 80px;
+
+    
+}
+.block{
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    background: grey;
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    background: gray;
+    border: none;
+    margin: 30px 30px;
+}
+.btn2{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    background: grey;
+    border: none;
+    margin: 30px 30px;
+}
